@@ -1,5 +1,8 @@
-These files run actions like
+## _Simple drive on motor. Use on rp3 only_  
 
-Ask the motor speed from user
-Ask steps taken in any direction
-How many times to switch direction
+```sh
+python3 main.py 
+```
+
+>_The code will ask the motor speed, steps_ per  revolution and how many times to switch_  direction from user_
+
